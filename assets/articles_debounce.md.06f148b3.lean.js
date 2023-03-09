@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,a as l}from"./app.96a69404.js";const D=JSON.parse('{"title":"防抖","description":"","frontmatter":{},"headers":[],"relativePath":"articles/debounce.md","lastUpdated":1678269270000}'),e={name:"articles/debounce.md"},p=l("",7),t=[p];function o(c,i,r,C,A,u){return a(),n("div",null,t)}const m=s(e,[["render",o]]);export{D as __pageData,m as default};

@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,a as l}from"./app.96a69404.js";const h=JSON.parse('{"title":"数组","description":"","frontmatter":{},"headers":[],"relativePath":"articles/array.md","lastUpdated":1677568061000}'),p={name:"articles/array.md"},e=l("",17),c=[e];function o(t,r,i,A,C,y){return a(),n("div",null,c)}const d=s(p,[["render",o]]);export{h as __pageData,d as default};

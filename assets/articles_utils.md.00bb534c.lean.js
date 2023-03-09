@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a as e}from"./app.837c4edc.js";const _=JSON.parse('{"title":"工具函数","description":"","frontmatter":{},"headers":[],"relativePath":"articles/utils.md","lastUpdated":1677750997000}'),t={name:"articles/utils.md"},l=e("",5),p=[l];function o(c,i,r,d,y,C){return n(),a("div",null,p)}const b=s(t,[["render",o]]);export{_ as __pageData,b as default};

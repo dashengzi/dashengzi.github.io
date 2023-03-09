@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as l}from"./app.837c4edc.js";const u=JSON.parse('{"title":"节流","description":"","frontmatter":{},"headers":[],"relativePath":"articles/thtottle.md","lastUpdated":1678332149000}'),p={name:"articles/thtottle.md"},e=l("",4),t=[e];function o(c,r,i,C,A,y){return a(),n("div",null,t)}const m=s(p,[["render",o]]);export{u as __pageData,m as default};
